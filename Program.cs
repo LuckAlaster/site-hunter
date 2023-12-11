@@ -6,7 +6,7 @@ TipoHatsu materialização = new("Materializadores", "Habilidade de criar objetos 
 TipoHatsu emissão = new("Emissores", "É a habilidade de separar a aura do corpo", "Impacientes e não prestam atenção em detalhes", "Razor e Senritsu");
 TipoHatsu especialização = new("Especialistas", "Tudo que não encaixa nas outras categorias", "Carismáticos e independentes", "Neon e Kuroro");
 
-TipoNen tiposDeHatsu = new("Hatsu", "Existem 5 tipos de Hatsu, onde cada tipo possui propriedades diferentes");
+TipoHatsu tiposDeHatsu = new("Hatsu", "Item exibido para ser integrado no personagem", "A personalidade também é de acordo com o personagem", "Criação do personagem");
 tiposDeHatsu.AdicionarTiposDeHatsu(reforço);
 tiposDeHatsu.AdicionarTiposDeHatsu(transmutação);
 tiposDeHatsu.AdicionarTiposDeHatsu(materialização);
@@ -29,6 +29,8 @@ TipoBasicoNen tipoBasicoNen = new("Quatro princípios", "Qualquer usuário pode tr
 //Console.WriteLine("\n------------------------------------------------------------------------------------------------------------------------------------------------------------------------");
 TipoHatsu tipoHatsu = new("\nTipos de Hatsu", "São 5 tipos de nen cuja o usuário possui uma afinidade", "Essa afinidade vem de acordo com a personalidade e características de nascença", "Exemplo: Hisoka é um manipulador, manipulando sua aura a sua vontade. Sua personalidade também é manipuladora");
 //tipoHatsu.ExibiTiposDeHatsu();
+//tipoHatsu.SelecionarHatsu();
 
-CriaçãoPersonagem personagem = new CriaçãoPersonagem();
+
+Personagem personagem = new Personagem();
 personagem.CriarPersonagem();

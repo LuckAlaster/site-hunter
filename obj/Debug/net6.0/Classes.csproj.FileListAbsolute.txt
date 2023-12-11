@@ -57,3 +57,4 @@ E:\Parceiros\Kevin\Desafios Rodrigo\Classes\bin\Debug\net6.0\runtimes\win\lib\ne
 E:\Parceiros\Kevin\Desafios Rodrigo\Classes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
 E:\Parceiros\Kevin\Desafios Rodrigo\Classes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 E:\Parceiros\Kevin\Desafios Rodrigo\Classes\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Parceiros\Kevin\Desafios Rodrigo\Classes\bin\Debug\net6.0\tipos-de-hatsu-.json

@@ -1,5 +1,4 @@
-﻿using System.Text.Json;
-namespace Classes.Nen;
+﻿namespace Classes.Nen;
 
 internal class TipoBasicoNen
 {
